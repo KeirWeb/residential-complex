@@ -1,0 +1,29 @@
+@font-face {
+   font-family: "PlayfairDisplay";
+   src: url(../fons/PlayfairDisplay-SemiBold.woff) format("woff"),
+      url(../fons/PlayfairDisplay-SemiBold.woff2) format("woff2");
+   font-weight: 700;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "PostNoBillsJaffna";
+   src: url(../fons/PostNoBillsJaffna-SemiBold.woff) format("woff"),
+      url(../fons/PostNoBillsJaffna-SemiBold.woff2) format("woff2");
+   font-weight: 600;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Raleway";
+   src: url(../fons/Raleway-Regular.woff) format("woff"),
+      url(../fons/Raleway-Regular.woff2) format("woff2");
+   font-weight: 400;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Roboto";
+   src: url(../fons/Robotolight.woff) format("woff"),
+      url(../fons/Robotolight.woff2) format("woff2");
+   font-weight: 300;
+   font-style: normal;
+}
